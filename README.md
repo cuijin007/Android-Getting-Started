@@ -15,6 +15,9 @@ Android-learn
 
 - [Android学习之学习路线图](http://blog.csdn.net/he90227/article/details/24135803)
 
+- [Android 学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/) <br />
+「``github.io``」
+
 ---
 [Google drive 资料](https://drive.google.com/folderview?id=0B1Rq4QEuDQKEOUMxM1d0dzVacE0&usp=sharing) <br />
 ``google drive`` ``photos``  ``demo``
