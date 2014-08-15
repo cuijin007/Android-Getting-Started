@@ -4,6 +4,9 @@ Android-learn
 ###Android 学习之路
 
 ####Android 学习资源汇总
+- [Android Developers](http://developer.android.com/index.html) <br />
+「``官方首页``」
+
 - [一个Android 学习的App](https://play.google.com/store/apps/details?id=loading.androidmanual.free) <br />
 「``Google Play``」
 
@@ -21,6 +24,7 @@ Android-learn
 ---
 ### Get Started
 - [Getting Started | Android Developers](https://developer.android.com/training/index.html)
+「``官方指南`` ``Get Started`` ``IntelliJ IDEA``」
 
 ---
 ### Android Studio
