@@ -44,5 +44,9 @@ Android-learn
 - [Android Studio App Development | Getting Started](http://www.youtube.com/watch?v=ZddHwDYqyIw&list=PL_PaSTBkUwk4PXlhZIe4COpwnWeCRnw2F) <br />
 「``Youtube`` ``Get Started`` ``Johnny Manson``」
 
+
+- [Android Quickstart](https://www.youtube.com/watch?v=jsZdp93kR_k&list=PLPZy-hmwOdEV6AP34VZZX5lXPi9QL_cSp) <br />
+「``Youtube`` ``Get Started`` ``IntelliJ IDEA``
+
 ---
 未完待补充。。。
