@@ -25,7 +25,7 @@ Android-learn
 ---
 ### Android Studio
 - [Android Studio Tutorial: Getting started with the new Android IDE](http://www.javacodegeeks.com/2013/06/android-studio-getting-started-with-the-new-android-ide.html) <br />
-``JavaCodeGeeks`` ``Get Started`` ``IntelliJ IDEA``
+「``JavaCodeGeeks`` ``Get Started`` ``IntelliJ IDEA``」
 
 
 
@@ -37,7 +37,7 @@ Android-learn
 ---
 ### Documents
 - [Google drive 资料](https://drive.google.com/folderview?id=0B1Rq4QEuDQKEOUMxM1d0dzVacE0&usp=sharing) 「**持续更新**」<br />
-``google drive`` ``photos``  ``demo``
+「``google drive`` ``photos``  ``demo``」
 
 ---
 ### Viedo
@@ -46,7 +46,23 @@ Android-learn
 
 
 - [Android Quickstart](https://www.youtube.com/watch?v=jsZdp93kR_k&list=PLPZy-hmwOdEV6AP34VZZX5lXPi9QL_cSp) <br />
-「``Youtube`` ``Get Started`` ``IntelliJ IDEA``
+「``Youtube`` ``Get Started`` ``IntelliJ IDEA``」
+
+---
+
+### Blog
+- [hellogv的专栏 - 博客频道](http://blog.csdn.net/hellogv) <br />
+「``CSDN`` ``入门和提高``」
+
+
+- [Android_Tutor的专栏 - 博客频道](http://blog.csdn.net/android_tutor) <br />
+「``CSDN`` ``入门``」
+
+- [Android开发之旅 - 随笔分类 - 吴秦](http://www.cnblogs.com/skynet/category/241385.html) <br />
+「``cnBlogs`` ``入门``」
+
+- [老罗的Android之旅 - 博客频道](http://blog.csdn.net/luoshengyang) <br />
+「``CSDN`` ``提高和深入``」
 
 ---
 未完待补充。。。
