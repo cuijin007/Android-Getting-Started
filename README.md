@@ -19,8 +19,30 @@ Android-learn
 「``github.io``」
 
 ---
-[Google drive 资料](https://drive.google.com/folderview?id=0B1Rq4QEuDQKEOUMxM1d0dzVacE0&usp=sharing) <br />
+### Get Started
+- [Getting Started | Android Developers](https://developer.android.com/training/index.html)
+
+---
+### Android Studio
+- [Android Studio Tutorial: Getting started with the new Android IDE](http://www.javacodegeeks.com/2013/06/android-studio-getting-started-with-the-new-android-ide.html) <br />
+``JavaCodeGeeks`` ``Get Started`` ``IntelliJ IDEA``
+
+
+
+
+---
+### Eclipse 
+> 待补充。。。
+
+---
+### Documents
+- [Google drive 资料](https://drive.google.com/folderview?id=0B1Rq4QEuDQKEOUMxM1d0dzVacE0&usp=sharing) 「**持续更新**」<br />
 ``google drive`` ``photos``  ``demo``
+
+---
+### Viedo
+- [Android Studio App Development | Getting Started](http://www.youtube.com/watch?v=ZddHwDYqyIw&list=PL_PaSTBkUwk4PXlhZIe4COpwnWeCRnw2F) <br />
+「``Youtube`` ``Get Started`` ``Johnny Manson``」
 
 ---
 未完待补充。。。
