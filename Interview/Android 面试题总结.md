@@ -18,11 +18,17 @@ Android 面试题总结
 - [高博Android模拟笔试题（时间90分钟）](http://www.mianwww.com/html/2014/03/20125.html) <br />
 「``mianwww`` ``高博``」
 
-- [Android面试题 笔试题 题库 精心收集 史上最全！ —— IT公司面试手册](http://www.mianwww.com/html/category/it-interview/android)《br />
+- [Android面试题 笔试题 题库 精心收集 史上最全！ —— IT公司面试手册](http://www.mianwww.com/html/category/it-interview/android)<br />
 「``mianwww`` ``多而杂``」
 
-- [Android面试汇总（百度+360+Tencent+淘宝+Qualcomm+HTC）]http://page.renren.com/600998743/note/852672418)《br />
+- [Android面试汇总（百度+360+Tencent+淘宝+Qualcomm+HTC）](http://page.renren.com/600998743/note/852672418)<br />
 「``renren`` ``BAT``」
+
+- [Android开发工程师面试心得](http://326301045.iteye.com/blog/1997471)<br />
+「``iteye`` ``亲身经历``」
+
+- [Android求职之面试总结](http://www.apkbus.com/android-117746-1-1.html)<br />
+「``apkbus`` ``based`` ``仔细``」
 
 ---
 未完待补充。。。
