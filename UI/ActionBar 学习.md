@@ -4,17 +4,18 @@
 ### 汇总
 ---
 
-- [ Android ActionBar完全解析，使用官方推荐的最佳导航栏(上)](http://blog.csdn.net/guolin_blog/article/details/18234477)
+- [ Android ActionBar完全解析，使用官方推荐的最佳导航栏(上)](http://blog.csdn.net/guolin_blog/article/details/18234477) <br />
 「``CSDN`` ``翻译官方`` ```` 」
 
-- [ Action Bar | Android Developers](http://developer.android.com/guide/topics/ui/actionbar.html)
+- [ Action Bar | Android Developers](http://developer.android.com/guide/topics/ui/actionbar.html) <br />
 「``developer.android.com`` ``官方`` 」
 
-- [Android UI开发详解之ActionBar](http://blog.csdn.net/eclipsexys/article/details/8688538)
+- [Android UI开发详解之ActionBar](http://blog.csdn.net/eclipsexys/article/details/8688538) <br />
 「``CSDN`` ``Phone&Table`` ``详细`` 」
 
 
-- [johannilsson/android-actionbar](https://github.com/johannilsson/android-actionbar)
+- [johannilsson/android-actionbar](https://github.com/johannilsson/android-actionbar) <br />
 「``Github`` ``Project`` ``Johan Nilsson`` 」
 
-- https://github.com/search?q=actionbar
+- https://github.com/search?q=actionbar <br />
+「``Github`` ``Search``」
