@@ -11,3 +11,5 @@
 - [https://github.com/kippt/jekyll-incorporated/](https://github.com/kippt/jekyll-incorporated/)
 
 - [http://startbootstrap.com/template-categories/all/](http://startbootstrap.com/template-categories/all/)
+
+- [https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)
