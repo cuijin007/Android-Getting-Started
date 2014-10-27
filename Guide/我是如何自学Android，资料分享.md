@@ -1,11 +1,11 @@
 最近知乎上有网友问我怎么自学Android，其实说实在的，我学的也一塌糊涂，当然在学习过程也积累了一些知识，对于以前没接触过Android的朋友，或者刚入门Android 的朋友，这篇文章作为入门，那是再合适不过了，希望对刚入门Android的朋友有帮助，接下来，就不罗嗦啦。
 
-> 本文主要有以下几个步骤：
-``1.``  Java 基础；
-``2.`` 搭建Android 开发环境；
-``3.`` 了解Android 运行原理以及一个工程项目结构；
-``4.`` 如何系统学习Android；
-``5.`` 推荐一些实用的资源
+> 本文主要有以下几个步骤：<br />
+``1.``  Java 基础；<br />
+``2.`` 搭建Android 开发环境；<br />
+``3.`` 了解Android 运行原理以及一个工程项目结构；<br />
+``4.`` 如何系统学习Android；<br />
+``5.`` 推荐一些实用的资源<br />
 ``6.`` 总结
 
 <br />
@@ -17,7 +17,7 @@
 当然如果你有C++ 基础，当然也可以基于NDK 开发，可以不使用Java；
 
 **对于没有Java 基础的朋友，我推荐一些资料：**
-> Mars 的Java4Android：http://yun.baidu.com/s/1dD5RRQ5
+> Mars 的Java4Android：http://yun.baidu.com/s/1dD5RRQ5 <br />
 > 极客学院推出的Android 专题：http://android.jikexueyuan.com/
 
 <br />
@@ -117,6 +117,6 @@ Android 开发IDE选择，有Eclipse，IntelliJ IDEA，Android Studio（基于In
 5. 加一些QQ 群，有不会可以问问，相互交流；
 
 ---
-> 本文作者：[Tikitoo](http://weibo.com/lyf0306)
-本文出处：http://www.jianshu.com/p/2ee0e74abbdf
+> 本文作者：[Tikitoo](http://weibo.com/lyf0306) <br />
+本文出处：http://www.jianshu.com/p/2ee0e74abbdf <br />
 转载请在开头注明``作者详细信息``和``本文出处``。
