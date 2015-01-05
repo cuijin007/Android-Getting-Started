@@ -1,9 +1,7 @@
 Android-Get-Started
 =============
 
-###Android 学习之路
-
-####Android 学习资源汇总
+## Android 学习资源汇总
 - [Android Developers](http://developer.android.com/index.html) <br />
 「``官方首页``」
 
@@ -21,30 +19,29 @@ Android-Get-Started
 - [Android 学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/) <br />
 「``github.io``」
 
----
-### Get Started
+
+## Get Started
 - [Getting Started | Android Developers](https://developer.android.com/training/index.html)
 「``官方指南`` ``Get Started`` ``IntelliJ IDEA``」
 
----
-### Android Studio
+
+## Android Studio
 - [Android Studio Tutorial: Getting started with the new Android IDE](http://www.javacodegeeks.com/2013/06/android-studio-getting-started-with-the-new-android-ide.html) <br />
 「``JavaCodeGeeks`` ``Get Started`` ``IntelliJ IDEA``」
 
 
 
 
----
-### Eclipse 
+
+## Eclipse 
 > 待补充。。。
 
----
-### Documents
+## Documents
 - [Google drive 资料](https://drive.google.com/folderview?id=0B1Rq4QEuDQKEOUMxM1d0dzVacE0&usp=sharing) 「**持续更新**」<br />
 「``google drive`` ``photos``  ``demo``」
 
----
-### Viedo
+
+## Viedo
 - [Android Studio App Development | Getting Started](http://www.youtube.com/watch?v=ZddHwDYqyIw&list=PL_PaSTBkUwk4PXlhZIe4COpwnWeCRnw2F) <br />
 「``Youtube`` ``Get Started`` ``Johnny Manson``」
 
@@ -52,9 +49,8 @@ Android-Get-Started
 - [Android Quickstart](https://www.youtube.com/watch?v=jsZdp93kR_k&list=PLPZy-hmwOdEV6AP34VZZX5lXPi9QL_cSp) <br />
 「``Youtube`` ``Get Started`` ``IntelliJ IDEA``」
 
----
 
-### Blog
+## Blog
 - [hellogv的专栏 - 博客频道](http://blog.csdn.net/hellogv) <br />
 「``CSDN`` ``入门和提高``」
 
@@ -68,5 +64,5 @@ Android-Get-Started
 - [老罗的Android之旅 - 博客频道](http://blog.csdn.net/luoshengyang) <br />
 「``CSDN`` ``提高和深入``」
 
----
+
 未完待补充。。。
